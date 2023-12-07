@@ -13,3 +13,4 @@ export async function load({ params }) {
 		websitesData: hygraph.request(queryWebsite)
 	};
 }
+
